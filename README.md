@@ -182,6 +182,9 @@ The Power BI Executive Dashboard includes interactive visual features:
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+Samyak Bhagat
+
 Data Analyst
 
 📧 Email: samyakbhagat03@gmail.com.com
